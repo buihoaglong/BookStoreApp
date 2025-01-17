@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonNavigationBar</string>
+    <string name="action_home">Home</string>
+    <string name="action_history">Favorite</string>
+    <string name="action_account">Page</string>
+
+</resources>
